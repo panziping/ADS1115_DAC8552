@@ -1,0 +1,8 @@
+LIB
+!LIB/*.dra
+!LIB/*.pad
+!LIB/*.psm
+!LIB/LIB.OLB
+PCB
+REF
+SCH

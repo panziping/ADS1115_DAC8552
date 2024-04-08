@@ -1,0 +1,7 @@
+TLV70245  	LDO 	vin: 2v    ~ 5.5v;             	vout: 4.5v
+LP2985-50	LDO	vin: 2.5v ~ 16v;              	vout: 5v
+LP2985-10	LDO	vin: 2.5v ~ 16v;               	vout: 10v
+REF5040		REF	vin = (vout+0.2v) ~ 18v;	vout:4.096v
+DAC8552		16-BIT, DUAL CHANNEL, ULTRA-LOW GLITCH, VOLTAGE OUTPUT
+ADS1115		I2C-Compatible, 860-SPS, 16-Bit ADCs
+OPA2376/2187	双通道低噪声、低静态电流、精密运算放大器
